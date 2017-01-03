@@ -1,0 +1,30 @@
+.announcement {
+  float: auto;
+  min-width: 525px;
+  height: 280px;
+  border-top: 4px solid Black;
+  border-bottom: 4px solid Black;
+}
+.announce-left {
+  background-color: #f17e7e;
+  border-left-color: Black;
+  border-left-style: solid;
+  border-left-width: 4px;
+  border-right-color: : Black;
+  border-right-style: solid;
+  border-right-width: 2px;
+  padding-top: 30px;
+  /*width: 550px;*/
+}
+.announce-right {
+  background-color: #c4c4c4;
+  border-left-color: Black;
+  border-left-style: solid;
+  border-left-width: 2px;
+  border-right-color: : Black;
+  border-right-style: solid;
+  border-right-width: 4px;
+}
+.post-title {
+  font-size: 28px !important;
+}

@@ -1,0 +1,27 @@
+# Site settings
+title: Central Puget Sound GIS User Group
+header-img: img/home-bg.jpg
+email: centralpugetsoundgis@gmail.com
+copyright_name: Central Puget Sound GIS User Group
+description: "TODO: Write a description of the site"
+baseurl: ""
+url: "https://cpsgis.github.io/"
+#twitter_username: SBootstrap
+github_username:  cpsgis
+#facebook_username:  StartBootstrap
+email_username:  centralpugetsoundgis@gmail.com
+timezone: America/Los_Angeles
+categories: [ blog, meetings, training ]
+
+# Google Analytics
+# To enable google analytics, uncomment below line with a valid Google Tracking ID
+# google_tracking_id:
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
