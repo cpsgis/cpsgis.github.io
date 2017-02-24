@@ -1,18 +1,10 @@
 ---
 title: "Blog"
 layout: page
-description: "A Clean Blog Theme by Start Bootstrap"
+description: "Get your blog entires here!"
 category: blog
 paginate: 2
 ---
-<!--
-crb: Home Page Layout:
-- Header/banner
-- "Next Meeting" section
-- "Join our mailing list" section (a la CUGOS)
-- Brief description of "who we are"?
-
--->
 {% for post in site.categories[page.category] %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">

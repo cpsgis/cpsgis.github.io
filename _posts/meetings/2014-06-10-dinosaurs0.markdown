@@ -1,0 +1,17 @@
+---
+layout:     post
+title:      "Odysseus was Cool"
+subtitle:   "but his son was a total badass."
+date:       2017-01-05 12:00:00
+author:     "crb"
+header-img: "img/post-bg-01.jpg"
+category: meetings
+---
+
+# I think this is a h3?  Or is it h1?
+## This is definitely h2
+### And this is either h1 or h3
+
+*** Hmm, what's this then?
+** An ordered list perhaps?
+* Unordered

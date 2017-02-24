@@ -1,18 +1,10 @@
 ---
 title: "Training"
 layout: page
-description: "A Clean Blog Theme by Start Bootstrap"
+description: "Lots of mappy things to learn"
 category: training
 paginate: 5
 ---
-<!--
-crb: Home Page Layout:
-- Header/banner
-- "Next Meeting" section
-- "Join our mailing list" section (a la CUGOS)
-- Brief description of "who we are"?
-
--->
 {% for post in site.categories[page.category] %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
@@ -30,7 +22,6 @@ crb: Home Page Layout:
 {% endfor %}
 
 <!-- Pager -->
-<h1> total pages: {{ paginator.total_pages }} </h1>
 {% if paginator.total_pages > 1 %}
 <ul class="pager">
     {% if paginator.previous_page %}
