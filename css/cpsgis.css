@@ -1,9 +1,8 @@
 .announcement {
   float: auto;
+  max-width: 800px;
   min-width: 525px;
-  min-height: 280px;
-  border-top: 4px solid Black;
-  border-bottom: 4px solid Black;
+  min-height: 300px;
 }
 .announce-left {
   background-color: #C03923;
@@ -13,9 +12,14 @@
   border-right-color: black;
   border-right-style: solid;
   border-right-width: 2px;
+  border-top: 4px solid Black;
+  border-bottom: 4px solid Black;
   color: white;
   padding-top: 30px;
   /*width: 550px;*/
+}
+div.announce-left > center > p > a {
+    color: #E2A1A9;
 }
 .announce-right {
   background-color: light-gray; /*#c4c4c4;*/
@@ -25,6 +29,8 @@
   border-right-color: : Black;
   border-right-style: solid;
   border-right-width: 4px;
+  border-top: 4px solid Black;
+  border-bottom: 4px solid Black;
 }
 .btn-left.btn {
   color: white;
@@ -34,7 +40,9 @@
   border: 2px solid black;
   /*float: auto;*/
   margin-bottom: 10px;
+  margin-left: auto;
   max-width: 800px;
+  padding-bottom: 15px;
 }
 .page-topic-narrative {
   padding-top: 110px;
@@ -44,4 +52,16 @@
 }
 .title {
   font-size: 46px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  height: 90px;
+  margin-top: 0;
+}
+.intro-header {
+  height:400px;
+}
+a {
+  color: #337ab7;
+  text-decoration: none !important;
 }

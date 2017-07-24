@@ -1,0 +1,59 @@
+---
+layout:     post
+title:      "LiDAR"
+subtitle:   "Demonstrations of use of LiDAR from Bothell, Kirkland, UW, USGS and Bainbridge Island"
+date:       2016-11-01 12:00:00
+author:     "crb"
+category: meetings
+---
+
+<h1>CPS GIS LiDAR Presentations</h1>
+<h2>November 2016</h2>
+<strong>When:</strong> Tuesday, November 1st , 10am-12pm<br />
+<strong>Where:</strong> City of Mercer Island Event & Community Center, Groveland Meeting Room,
+8236 SE 24th St, Mercer Island, WA 98040
+
+<br />
+
+<h4>Agenda</h4>
+<ul>
+  <li>Introductions</li>
+  <li>City of Kirkland (Mel Soares, City of Kirkland)</li>
+  <li>Processing converting point lidar to raster</li>
+  <li>Trial & error creating contour lines to slope layer (tools, QA, file size)</li>
+  <li>Using Hydrology tools to realign stream vector layer</li>
+</ul>
+
+<p>
+  Ralph Haugerud from USGS, Kathy Troost from the University of WA, Mel Soares from the City of Kirkland and Andy Siegel from the City of Bothell shared their knowledge and experience with Lidar.
+</p>
+
+<p>
+  Read more about Ralph and Kathy from their web pages:
+  <ul>
+    <li><a href="http://geomaps.wr.usgs.gov/pacnw/phaugerud.html">Ralph Haugerud</a></li>
+    <li><a href="https://environment.uw.edu/faculty/kathy-troost/">Kathy Troost</a></li>
+  </ul>
+</p>
+
+<br />
+
+<h4>Presentations</h4>
+<strong>City of Bothell</strong><br />
+<em>Andy Siegel, City of Bothell</em>
+<blockquote>
+  DEM/DSM generation, Hydro-flattening approach, Contour Generation considerations, Hillshade, Slope Calculation, etc..<br />
+  <a href="/docs/2016/11/BothellLidarProject-Siegel.pdf">Presentation</a> (PDF)
+</blockquote>
+
+<strong>Shape shows more than pictures: An introduction to lidar</strong><br />
+<em>Ralph Haugerud, Research Geologist, USGS</em>
+<blockquote><a href="/docs/2016/11/IntroToLidar-Haugerud.pdf">Presentation</a> (PDF)</blockquote>
+
+<strong>How UW Geology uses Lidar Products</strong><br />
+<em>Kathy Troost, senior lecturer and research scientist, UW Department of Earth and Space Science</em>
+<blockquote><a href="/docs/2016/11/LidarDerivativeMaps-Troost.pdf">Presentation</a> (PDF)</blockquote>
+
+<strong>Land Use Coverage Mapping on Bainbridge Island</strong><br />
+<em>Jonnie Dunne</em>
+<blockquote><a href="/docs/2016/11/LandUseCoverMappingOnBainbridgeIs-Dunne.pdf">Presentation</a> (PDF)</blockquote>

@@ -1,38 +1,49 @@
 ---
 title: "Meetings"
 layout: page
-description: "Get Meeting details here"
+description:
 category: meetings
 paginate: 2
 ---
 
-<div class="container">
-  <div class="row">
-    <center>
-      <div class="col-lg-12 page-topic">
-        <h1>Next Meeting: January 12, 2017</h1>
-        <div class="col-lg-6">
-          <center>
-            <h3>Topic(s)</h3>
-            <h4>Lidar</h4>
-            <h4>Geocortex</h4>
-          </center>
+  <div class="container announcement">
+    <div class="row">
+      <center>
+        <div class="col-lg-12 page-topic">
+          <h1>Next Meeting: August 23, 2017</h1>
+          <h2>10 AM - 12 PM</h2>
+          <h2><a href="https://www.google.com/maps/place/Mercer+Island+City+Buildings/@47.5741478,-122.2094113,16z/data=!4m5!3m4!1s0x0:0xcb21ca3b21c72c4!8m2!3d47.5773906!4d-122.2104563?shorturl=1">Mercer Island Council Chambers</a></h2>
+          <div class="col-lg-6">
+            <center>
+              <h3>Topics</h3>
+              <h4>Main Topic: <i>Going Mobile</i></h4>
+              <h4><i>Lightning Discussions</i></h4>
+              <h4>Optional: <i>Student Presentations</i></h4>
+            </center>
+          </div>
+          <div class="col-lg-6">
+            <center>
+              <h3>Presenters</h3>
+              <h4>Various</h4>
+            </center>
+          </div>
+          <!--
+          <div class="col-lg-12">
+            <p class="page-topic-narrative">
+              The next meeting is going to be about all kinds of groovy mappy things.
+              We'll talk about lidar and geocortex and symbology and stuff.
+            </p>
+          </div>
+        -->
         </div>
-        <div class="col-lg-6">
-          <center>
-            <h3>Presenters</h3>
-            <h4>Bobby Orr</h4>
-            <h4>Tom Brady</h4>
-          </center>
-        </div>
-        <p class="page-topic-narrative">
-          The next meeting is going to be about all kinds of groovy mappy things.
-          We'll talk about lidar and geocortex and symbology and stuff.
-        </p>
       </center>
     </div>
   </div>
 
+  <div class="row col-lg-12">
+    <h1>Previous Meetings</h1>
+  </div>
+  
   <div class="row">
     <div class="col-lg-12">
       {% for post in site.categories[page.category] %}
