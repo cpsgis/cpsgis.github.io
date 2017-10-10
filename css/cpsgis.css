@@ -45,7 +45,11 @@ div.announce-left > center > p > a {
   padding-bottom: 15px;
 }
 .page-topic-narrative {
+  text-align: justify;
+}
+.page-topic-narrative-spaced {
   padding-top: 110px;
+  text-align: justify;
 }
 .post-title {
   font-size: 28px !important;
