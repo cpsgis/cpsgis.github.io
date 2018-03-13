@@ -27,27 +27,27 @@ category: meetings
 <h4>Presentations</h4>
 <strong>Meeting Agenda</strong><br />
 <blockquote>
-  <a href="/docs/2017/12/CPS-GIS+User+Group+Meeting+December+2017.pdf">Presentation</a> (PDF)
+  <a href="/docs/2017/12/CPS-GIS+User+Group+Meeting+December+2017.pdf" target="_new">Presentation</a> (PDF)
 </blockquote>
 
 <strong>ArcPro vs ArcGIS Desktop - A Side-by-Side Approach</strong><br />
 <em>Sergio Vazquez &amp; Keith Iverson</em>
 <blockquote>
-  <a href="/docs/2017/12/ArcGISPro-SideBySideApproach-SergioVazquezCityOfBurien.pdf">Presentation: A Side-by-Side Approach</a> (PDF)<br />
-  <a href="/docs/2017/12/ArcGISPro-vs-ArcMap-KeithIversonCityOfMercerIsland.pdf">Presentation: ArcMap vs. ArcGIS Pro: We're all screwed!</a> (PDF)
+  <a href="/docs/2017/12/ArcGISPro-SideBySideApproach-SergioVazquezCityOfBurien.pdf" target="_new">Presentation: A Side-by-Side Approach</a> (PDF)<br />
+  <a href="/docs/2017/12/ArcGISPro-vs-ArcMap-KeithIversonCityOfMercerIsland.pdf" target="_new">Presentation: ArcMap vs. ArcGIS Pro: We're all screwed!</a> (PDF)
 </blockquote>
 
 <strong>Transitioning from ArcMap to Pro: Practical Tips</strong><br />
 <em>Aaron Raymond</em>
 <blockquote>
-  <a href="/docs/2017/12/ArcGISPro-Notes+on+Transition-AaronRaymondCityOfRenton.pdf">Presentation</a> (PDF)
+  <a href="/docs/2017/12/ArcGISPro-Notes+on+Transition-AaronRaymondCityOfRenton.pdf" target="_new">Presentation</a> (PDF)
 </blockquote>
 
 <strong>Tips for success with Portal for ArcGIS and migrating to ArcGIS Pro</strong><br />
 <em>TJ Abbenhaus &amp; Heather Glock</em>
 <blockquote>
-  <a href="/docs/2017/12/ArcGIS+Enterprise-The+What,+Why+and+How-ESRI-HeatherGlock&TJAbbenhaus.pdf">Presentation: ArcGIS Enterprise: The What, Why and How</a> (PDF)<br />
-  <a href="/docs/2017/12/ArcGIS+Pro-General+Training+Recommendations_October+2017-ESRI-HeatherGlock&TJAbbenhaus.pdf">Presentation: General Training Recommendations</a> (PDF)<br />
-  <a href="/docs/2017/12/ArcGIS+Pro+Licensing-Named+Users-ESRI-HeatherGlock&TJAbbenhaus.pdf">Presentation: ArcGIS Pro Licensing &amp; Named User Discussion</a> (PDF)<br />
-  <a href="/docs/2017/12/ArcGIS+Pro+Migration-ESRI-HeatherGlock&TJAbbenhaus.pdf">Reference: ArcMap to ArcGIS Pro Migration Resources</a> (PDF)
+  <a href="/docs/2017/12/ArcGIS+Enterprise-The+What,+Why+and+How-ESRI-HeatherGlock&TJAbbenhaus.pdf" target="_new">Presentation: ArcGIS Enterprise: The What, Why and How</a> (PDF)<br />
+  <a href="/docs/2017/12/ArcGIS+Pro-General+Training+Recommendations_October+2017-ESRI-HeatherGlock&TJAbbenhaus.pdf" target="_new">Presentation: General Training Recommendations</a> (PDF)<br />
+  <a href="/docs/2017/12/ArcGIS+Pro+Licensing-Named+Users-ESRI-HeatherGlock&TJAbbenhaus.pdf" target="_new">Presentation: ArcGIS Pro Licensing &amp; Named User Discussion</a> (PDF)<br />
+  <a href="/docs/2017/12/ArcGIS+Pro+Migration-ESRI-HeatherGlock&TJAbbenhaus.pdf" target="_new">Reference: ArcMap to ArcGIS Pro Migration Resources</a> (PDF)
 </blockquote>
