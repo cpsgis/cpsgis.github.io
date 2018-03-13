@@ -32,7 +32,7 @@ category: meetings
   Read more about Ralph and Kathy from their web pages:
   <ul>
     <li><a href="http://geomaps.wr.usgs.gov/pacnw/phaugerud.html">Ralph Haugerud</a></li>
-    <li><a href="https://environment.uw.edu/faculty/kathy-troost/">Kathy Troost</a></li>
+    <li>Kathy Troost</li>
   </ul>
 </p>
 
