@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "ArcGIS Pro"
-subtitle:   "Demonstrations of use of ArcGIS Pro from Esri, Renton, & Burien"
+subtitle:   "Demonstrations of use of ArcGIS Pro from Renton, Burien, Mercer Island & Esri"
 date:       2017-12-05 10:00:00
 author:     "crb"
 category: meetings
@@ -12,8 +12,6 @@ category: meetings
 <strong>When:</strong> Tuesday, December 5 2017, 10am-12pm<br />
 <strong>Where:</strong> City of Mercer Island City Hall, Council Chambers
 
-<br />
-
 <h4>Agenda</h4>
 <ul>
   <li>Introductions</li>
@@ -23,6 +21,8 @@ category: meetings
   <li>Lightning Rounds</li>
   <li>Topics for next meeting</li>
 </ul>
+
+<br />
 
 <h4>Presentations</h4>
 <strong>Meeting Agenda</strong><br />
